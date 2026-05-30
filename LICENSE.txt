@@ -24,4 +24,4 @@ Core Capabilities
 
 
 TAGS
-ultraiso, ultraiso-2026, ultraiso-pro, ezb-systems, iso-editor, bootable-usb, iso-burner, pro-software-2026, trial-software, windows-software-2026                              
+ultraiso, ultraiso-2026, ultraiso-pro, ezb-systems, iso-editor, bootable-usb, iso-burner, pro-software-2026, trial-software, windows-software-2026                               
